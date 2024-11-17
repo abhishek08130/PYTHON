@@ -7,3 +7,4 @@ elif a==0:
 else:
     print("Negative")
 
+#elif is used to check multiple conditions
